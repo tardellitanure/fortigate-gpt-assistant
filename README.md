@@ -29,9 +29,11 @@ GPT_MODEL=gpt-4  # ou gpt-3.5-turbo
 ```
 ## Comandos CLI
 
----
+## 🔐 Comandos CLI
+
+```
 python main.py fetch
 python main.py analyze
 python main.py extract
 python main.py apply
----
+```
