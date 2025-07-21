@@ -27,3 +27,8 @@ FORTIGATE_TOKEN=token_do_fortigate
 GPT_API_KEY=sua_api_key_openai
 GPT_MODEL=gpt-4  # ou gpt-3.5-turbo
 ```
+Comandos CLI
+python main.py fetch
+python main.py analyze
+python main.py extract
+python main.py apply
